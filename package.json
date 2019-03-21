@@ -4,7 +4,7 @@
   "description": "Cordova Plugin for handling localization strings on InfoPlist.strings and Localizable.strings on iOS, strings.xml on Android",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kelvinhokk/cordova-plugin-localization-strings.git"
+    "url": "https://github.com/vencis/cordova-plugin-localization-strings.git"
   },
   "engines": [
     {
@@ -35,7 +35,7 @@
   "devDependencies": {},
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kelvinhokk/cordova-plugin-localization-strings.git/issues"
+    "url": "https://github.com/vencis/cordova-plugin-localization-strings.git/issues"
   },
-  "homepage": "https://github.com/kelvinhokk/cordova-plugin-localization-strings.git"
+  "homepage": "https://github.com/vencis/cordova-plugin-localization-strings.git"
 }
